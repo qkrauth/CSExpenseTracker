@@ -1,0 +1,14 @@
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\bin\Debug\net9.0\CSExpenseTracker.exe
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\bin\Debug\net9.0\CSExpenseTracker.deps.json
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\bin\Debug\net9.0\CSExpenseTracker.runtimeconfig.json
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\bin\Debug\net9.0\CSExpenseTracker.dll
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\bin\Debug\net9.0\CSExpenseTracker.pdb
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.AssemblyInfo.cs
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.dll
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\refint\CSExpenseTracker.dll
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.pdb
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.genruntimeconfig.cache
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\ref\CSExpenseTracker.dll
