@@ -126,7 +126,7 @@ namespace ExpenseTrackerApp
 
             Console.WriteLine("By Category:");
             foreach (var group in byCategory)
-                Console.WriteLine($"{group.Category,-15} ${group.Total,8:F2}");
+                Console.WriteLine($"{group.Category, -15} ${group.Total, 8:F2}");
         }
     }
 }
