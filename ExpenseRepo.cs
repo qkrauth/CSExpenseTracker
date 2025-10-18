@@ -26,7 +26,7 @@ namespace ExpenseTrackerApp
         public void SaveExpenses(List<Expense> expenses)
         {
             string json = JsonSerializer.Serialize(expenses, new JsonSerializerOptions { WriteIndented = true }); // converts list to formatted JSON
-            File.WriteAllText(filepath, json); // writes it to fil
+            File.WriteAllText(filepath, json); // writes it to file
         }
     }
 }
