@@ -12,3 +12,4 @@ C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0
 C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.pdb
 C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.genruntimeconfig.cache
 C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\ref\CSExpenseTracker.dll
+C:\Users\quint\OneDrive\Documents\CodingExtras\CSExpenseTracker\obj\Debug\net9.0\CSExpenseTracker.sourcelink.json

@@ -1,4 +1,4 @@
-using System: // basically like an import, gives access to basic C# functionalities
+using System; // basically like an import, gives access to basic C# functionalities
 
 namespace ExpenseTrackerApp // groups classes together under one namespace
 {
